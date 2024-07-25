@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning to use my own llm
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me mail in french better
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 😄 Pronouns: pascal 
+- ⚡ Fun fact: try to learn for understand 
 
 <!---
 Czamfrance/Czamfrance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
